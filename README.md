@@ -1,7 +1,5 @@
-<div align="center">
-  <a href="https://zoel.vercel.app/" target="_blank" rel="noreferrer"><img src="/assets/title.png" alt="Zulmy Azhary" /></a>
-  <img src="/assets/description.png" alt="Front End Developer | College Student" />
-</div>
+<div align="center"><a href="https://zoel.vercel.app/" target="_blank" rel="noreferrer"><img src="/assets/title.png" alt="Zulmy Azhary" /></a></div>
+<div align="center"><img src="/assets/description.png" alt="Front End Developer | College Student" /></div>
 
 ---
 
