@@ -50,3 +50,13 @@
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=zulmy-azhary&show_icons=true&count_private=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulmy-azhary&layout=compact&hide_progress=true&hide=php,scss,css,html" alt="Zoel's top languages" /> |
 | - | - |
+
+---
+
+**Contributions in the last year**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zulmy-azhary/zulmy-azhary/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zulmy-azhary/zulmy-azhary/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zulmy-azhary/zulmy-azhary/output/github-contribution-grid-snake.svg">
+</picture>
