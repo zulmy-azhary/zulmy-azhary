@@ -14,7 +14,6 @@
 ---
 
 **Social media**
-<!-- ![https://www.facebook.com/zulmyazhary](assets/facebook.png) -->
 
 <div style="display:flex;gap:0.75rem;">
   <a target="_blank" rel="noreferrer" href="https://www.facebook.com/zulmyazhary"><img height="30" src="/assets/facebook.png" alt="Facebook"/></a>
@@ -48,8 +47,16 @@
 
 **My Stats**
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=zulmy-azhary&show_icons=true&count_private=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulmy-azhary&layout=compact&hide_progress=true&hide=php,scss,css,html" alt="Zoel's top languages" /> |
-| - | - |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zulmy-azhary&show_icons=true&count_private=true&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zulmy-azhary&show_icons=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=zulmy-azhary&show_icons=true&count_private=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zulmy-azhary&layout=compact&hide_progress=true&hide=php,scss,css,html&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zulmy-azhary&layout=compact&hide_progress=true&hide=php,scss,css,html">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulmy-azhary&layout=compact&hide_progress=true&hide=php,scss,css,html" alt="Zoel's top languages" />
+</picture>
 
 ---
 
