@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://zoel.vercel.app/"><img src="/assets/MyName.png" alt="Zulmy Azhary" /></a>
-  <p style="margin-top:1rem;font-weight:700;">Front-End Developer | College Student<p>
+  <a href="https://zoel.vercel.app/" target="_blank" rel="noreferrer"><img src="/assets/title.png" alt="Zulmy Azhary" /></a>
+  <img src="/assets/description.png" alt="Front End Developer | College Student" />
 </div>
 
 ---
@@ -8,13 +8,27 @@
 **About me**
 
 - 😎 Self-Taught Front-End Developer.
+- 📌 Based on Makassar, [Indonesia](https://en.wikipedia.org/wiki/Indonesia)
 - 🎓 College Student at [Unitama](https://unitama.ac.id).
 - 💻 Built various modern websites with different libraries, frameworks and technologies.
 - 💙 Typescript so much!
 
 ---
 
-**Languages and Tools:**
+**Social media**
+<!-- ![https://www.facebook.com/zulmyazhary](assets/facebook.png) -->
+
+<div style="display:flex;gap:0.75rem;">
+  <a target="_blank" rel="noreferrer" href="https://www.facebook.com/zulmyazhary"><img height="30" src="/assets/facebook.png" alt="Facebook"/></a>
+  <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/zulmy-azhary-7a0b04159"><img height="30" src="/assets/linkedin.png" alt="LinkedIn"/></a>
+  <a target="_blank" rel="noreferrer" href="https://www.instagram.com/zulmyazhary_"><img height="30" src="/assets/instagram.png" alt="Instagram"/></a>
+  <a target="_blank" rel="noreferrer" href="https://discord.com/users/1015875403627364362"><img height="30" src="/assets/discord.png" alt="Discord"/></a>
+  <a target="_blank" rel="noreferrer" href="https://t.me/ZulmyAzhary"><img height="30" src="/assets/telegram.png" alt="Telegram"/></a>
+</div>
+
+---
+
+**Languages and Tools**
 
 <div style="display:flex;gap:0.75rem;flex-wrap:wrap">
   <img height="30" style="padding:5px;background-color:#f2f2f2;border-radius:2px" title="Javascript" alt="javascript" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
