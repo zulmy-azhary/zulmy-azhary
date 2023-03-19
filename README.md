@@ -6,10 +6,10 @@
 **About me**
 
 - 😎 Self-Taught Front-End Developer.
-- 📌 Based on Makassar, [Indonesia](https://en.wikipedia.org/wiki/Indonesia)
+- 📌 Based on Makassar, [Indonesia](https://en.wikipedia.org/wiki/Indonesia).
 - 🎓 College Student at [Unitama](https://unitama.ac.id).
 - 💻 Built various modern websites with different libraries, frameworks and technologies.
-- 💙 Typescript so much!
+- 💙 Typescript so much!.
 
 ---
 
