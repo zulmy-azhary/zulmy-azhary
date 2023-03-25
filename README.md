@@ -28,8 +28,12 @@
 **Languages and Tools**
 
 <picture>
-  <source media="(max-width: 375px)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,tailwind,styledcomponents,materialui,mongodb,nodejs,express,nextjs,firebase,figma,postman,solidjs,vite,vscode,bootstrap,mysql&theme=light&perline=5">
-  <source media="(max-width: 768px)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,tailwind,styledcomponents,materialui,mongodb,nodejs,express,nextjs,firebase,figma,postman,solidjs,vite,vscode,bootstrap,mysql&theme=light&perline=10">
+  <source media="(prefers-color-scheme: dark) and (max-width:375px)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,tailwind,styledcomponents,materialui,mongodb,nodejs,express,nextjs,firebase,figma,postman,solidjs,vite,vscode,bootstrap,mysql&perline=5">
+  <source media="(prefers-color-scheme: light) and (max-width:375px)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,tailwind,styledcomponents,materialui,mongodb,nodejs,express,nextjs,firebase,figma,postman,solidjs,vite,vscode,bootstrap,mysql&theme=light&perline=5">
+  <source media="(prefers-color-scheme: dark) and (max-width:768px)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,tailwind,styledcomponents,materialui,mongodb,nodejs,express,nextjs,firebase,figma,postman,solidjs,vite,vscode,bootstrap,mysql&perline=10">
+  <source media="(prefers-color-scheme: light) and (max-width:768px)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,tailwind,styledcomponents,materialui,mongodb,nodejs,express,nextjs,firebase,figma,postman,solidjs,vite,vscode,bootstrap,mysql&theme=light&perline=10">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,tailwind,styledcomponents,materialui,mongodb,nodejs,express,nextjs,firebase,figma,postman,solidjs,vite,vscode,bootstrap,mysql&perline=25">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,tailwind,styledcomponents,materialui,mongodb,nodejs,express,nextjs,firebase,figma,postman,solidjs,vite,vscode,bootstrap,mysql&theme=light&perline=25">
   <img src="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,tailwind,styledcomponents,materialui,mongodb,nodejs,express,nextjs,firebase,figma,postman,solidjs,vite,vscode,bootstrap,mysql&theme=light&perline=25" />
 </picture>
 
@@ -40,7 +44,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zulmy-azhary&theme=github_dark&border_color=30363D&show_icons=true&count_private=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zulmy-azhary&show_icons=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=zulmy-azhary&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zulmy-azhary&show_icons=true&count_private=true" alt="Zoel's github stats" />
 </picture>
 
 <picture>
