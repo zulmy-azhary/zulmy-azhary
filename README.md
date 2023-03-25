@@ -28,7 +28,7 @@
 **Languages and Tools**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,tailwind,styledcomponents,materialui,mongodb,nodejs,express,nextjs,firebase,figma,postman,solidjs,vite,vscode,bootstrap,mysql&perline=25">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,tailwind,styledcomponents,materialui,mongodb,nodejs,express,nextjs,firebase,figma,postman,solidjs,vite,vscode,bootstrap,mysql&theme=dark&perline=25">
   <img src="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,tailwind,styledcomponents,materialui,mongodb,nodejs,express,nextjs,firebase,figma,postman,solidjs,vite,vscode,bootstrap,mysql&theme=light&perline=25" alt="Languages and tools" />
 </picture>
 
