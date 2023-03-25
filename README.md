@@ -28,12 +28,8 @@
 **Languages and Tools**
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 375px)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,tailwind,styledcomponents,materialui,mongodb,nodejs,express,nextjs,firebase,figma,postman,solidjs,vite,vscode,bootstrap,mysql&perline=5">
-  <source media="(prefers-color-scheme: light) and (max-width: 375px)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,tailwind,styledcomponents,materialui,mongodb,nodejs,express,nextjs,firebase,figma,postman,solidjs,vite,vscode,bootstrap,mysql&theme=light&perline=5">
-  <source media="(prefers-color-scheme: dark) and (max-width: 768px)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,tailwind,styledcomponents,materialui,mongodb,nodejs,express,nextjs,firebase,figma,postman,solidjs,vite,vscode,bootstrap,mysql&perline=10">
-  <source media="(prefers-color-scheme: light) and (max-width: 768px)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,tailwind,styledcomponents,materialui,mongodb,nodejs,express,nextjs,firebase,figma,postman,solidjs,vite,vscode,bootstrap,mysql&theme=light&perline=10">
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,tailwind,styledcomponents,materialui,mongodb,nodejs,express,nextjs,firebase,figma,postman,solidjs,vite,vscode,bootstrap,mysql&perline=25">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,tailwind,styledcomponents,materialui,mongodb,nodejs,express,nextjs,firebase,figma,postman,solidjs,vite,vscode,bootstrap,mysql&theme=light&perline=25">
+  <source media="(max-width: 375px)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,tailwind,styledcomponents,materialui,mongodb,nodejs,express,nextjs,firebase,figma,postman,solidjs,vite,vscode,bootstrap,mysql&theme=light&perline=5">
+  <source media="(max-width: 768px)" srcset="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,tailwind,styledcomponents,materialui,mongodb,nodejs,express,nextjs,firebase,figma,postman,solidjs,vite,vscode,bootstrap,mysql&theme=light&perline=10">
   <img src="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,tailwind,styledcomponents,materialui,mongodb,nodejs,express,nextjs,firebase,figma,postman,solidjs,vite,vscode,bootstrap,mysql&theme=light&perline=25" />
 </picture>
 
