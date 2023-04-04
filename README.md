@@ -34,15 +34,15 @@
 **My Stats**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zulmy-azhary&theme=github_dark&border_color=30363D&show_icons=true&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zulmy-azhary&show_icons=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=zulmy-azhary&show_icons=true&count_private=true" alt="Zoel's github stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-zulmy-azhary.vercel.app/api?username=zulmy-azhary&theme=github_dark&border_color=30363D&show_icons=true&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-zulmy-azhary.vercel.app/api?username=zulmy-azhary&show_icons=true&count_private=true">
+  <img src="https://github-readme-stats-zulmy-azhary.vercel.app/api?username=zulmy-azhary&show_icons=true&count_private=true" alt="Zoel's github stats" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zulmy-azhary&theme=github_dark&border_color=30363D&layout=compact&hide_progress=true&hide=php,scss,css,html">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zulmy-azhary&layout=compact&hide_progress=true&hide=php,scss,css,html">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulmy-azhary&layout=compact&hide_progress=true&hide=php,scss,css,html" alt="Zoel's top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-zulmy-azhary.vercel.app/api/top-langs/?username=zulmy-azhary&theme=github_dark&border_color=30363D&layout=compact&hide_progress=true&hide=php,scss,css,html">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-zulmy-azhary.vercel.app/api/top-langs/?username=zulmy-azhary&layout=compact&hide_progress=true&hide=php,scss,css,html">
+  <img align="top" src="https://github-readme-stats-zulmy-azhary.vercel.app/api/top-langs/?username=zulmy-azhary&layout=compact&hide_progress=true&hide=php,scss,css,html" alt="Zoel's top languages" />
 </picture>
 
 ---
