@@ -1,5 +1,7 @@
 <div align="center"><a href="https://zoel.vercel.app/" target="blank" rel="noreferrer"><img src="/assets/title.png" alt="Zulmy Azhary" /></a></div>
-<div align="center"><img src="/assets/description.png" alt="Front End Developer | College Student" /></div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cookie&size=40&pause=500&color=4338D9&center=true&vCenter=true&width=375&lines=Front+End+Developer;Web+Designer;College+Student" alt="Typing SVG" />
+</div>
 
 ---
 
