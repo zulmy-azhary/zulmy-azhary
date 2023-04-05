@@ -1,6 +1,10 @@
-<div align="center"><a href="https://zoel.vercel.app/" target="blank" rel="noreferrer"><img src="/assets/title.png" alt="Zulmy Azhary" /></a></div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cookie&size=40&pause=500&color=4338D9&center=true&vCenter=true&width=375&lines=Front+End+Developer;Web+Designer;College+Student" alt="Typing SVG" />
+  <a href="https://zoel.vercel.app/" target="blank" rel="noreferrer">
+    <img src="https://readme-typing-svg.demolab.com?font=Babylonica&size=96&duration=3000&pause=500&color=4338D9&center=true&vCenter=true&repeat=false&width=512&height=110&lines=Zulmy+Azhary" alt="Zulmy Azhary SVG" />
+  </a>
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cookie&size=40&pause=500&color=4338D9&center=true&vCenter=true&width=375&lines=Front+End+Developer;Web+Designer;College+Student" alt="Bio SVG" />
 </div>
 
 ---
@@ -11,7 +15,7 @@
 - 📌 Based on Makassar, [Indonesia](https://en.wikipedia.org/wiki/Indonesia).
 - 🎓 College Student at [Unitama](https://unitama.ac.id).
 - 💻 Built various modern websites with different libraries, frameworks and technologies.
-- 💙 Typescript so much!.
+- 💙 Typescript so much.
 
 ---
 
