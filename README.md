@@ -4,7 +4,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cookie&size=40&pause=500&color=4338D9&center=true&vCenter=true&width=375&lines=Front+End+Developer;Web+Designer;College+Student" alt="Bio SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cookie&size=40&pause=500&color=4338D9&center=true&vCenter=true&width=375&lines=Front+End+Developer;Web+Designer" alt="Bio SVG" />
 </div>
 
 ---
@@ -13,7 +13,7 @@
 
 - 😎 Self-taught Front-End Developer.
 - 📌 Based on Makassar, [Indonesia](https://en.wikipedia.org/wiki/Indonesia).
-- 🎓 College Student at [Unitama](https://unitama.ac.id).
+- 🎓 Graduated College from [Unitama](https://unitama.ac.id).
 - 💻 Built various modern websites with different libraries, frameworks and technologies.
 - 💙 Typescript so much.
 
@@ -26,14 +26,14 @@
   <a target="blank" href="https://discord.com/users/1015875403627364362"><img height="30" title="Discord" src="/assets/discord.png" alt="Discord"/></a>
   <a target="blank" href="https://www.instagram.com/zulmyazhary_"><img height="30" title="Instagram" src="/assets/instagram.png" alt="Instagram"/></a>
   <a target="blank" href="https://t.me/ZulmyAzhary"><img height="30" title="Telegram" src="/assets/telegram.png" alt="Telegram"/></a>
-  <a target="blank" href="https://www.linkedin.com/in/zulmy-azhary-7a0b04159"><img height="30" title="LinkedIn" src="/assets/linkedin.png" alt="LinkedIn"/></a>
+  <a target="blank" href="https://www.linkedin.com/in/zulmyazhary"><img height="30" title="LinkedIn" src="/assets/linkedin.png" alt="LinkedIn"/></a>
 </div>
 
 ---
 
 **Languages and Tools**
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,tailwind,styledcomponents,materialui,mongodb,nodejs,express,nextjs,firebase,figma,postman,solidjs,vite,vscode,bootstrap,mysql&theme=light&perline=25" alt="Languages and tools" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,vue,svelte,solidjs,nodejs,express,nextjs,remix,prisma,postgresql,mongodb,tailwind,styledcomponents,figma,postman,vite,vscode,vercel&theme=light&perline=25" alt="Languages and tools" />
 
 ---
 
