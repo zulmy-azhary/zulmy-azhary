@@ -47,9 +47,9 @@
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-zulmy-azhary.vercel.app/api/top-langs/?username=zulmy-azhary&theme=github_dark&border_color=30363D&layout=pie&langs_count=20&exclude_repo=gudang-id">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-zulmy-azhary.vercel.app/api/top-langs/?username=zulmy-azhary&layout=pie&langs_count=20&exclude_repo=gudang-id">
-    <img src="https://github-readme-stats-zulmy-azhary.vercel.app/api/top-langs/?username=zulmy-azhary&layout=pie&langs_count=20&exclude_repo=gudang-id" alt="Zoel's top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-zulmy-azhary.vercel.app/api/top-langs/?username=zulmy-azhary&theme=github_dark&border_color=30363D&layout=compact&langs_count=20&exclude_repo=gudang-id">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-zulmy-azhary.vercel.app/api/top-langs/?username=zulmy-azhary&layout=compact&langs_count=20&exclude_repo=gudang-id">
+    <img src="https://github-readme-stats-zulmy-azhary.vercel.app/api/top-langs/?username=zulmy-azhary&layout=compact&langs_count=20&exclude_repo=gudang-id" alt="Zoel's top languages" />
   </picture>
 
   <picture>
